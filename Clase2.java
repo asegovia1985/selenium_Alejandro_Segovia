@@ -2,7 +2,8 @@ package Clase2;
 
 public class Clase2 {
 
-    //INICIO
+    //Inicio
+    // esto es una prueba
 
     public static void main(String args[]){
         //mostrar holaMundo!
